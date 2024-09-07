@@ -8,7 +8,7 @@ This is my first attempt at such a complete hardware development, which exists a
 # Some illustration
 Most projects on the internet use momentum wheels directly to achieve balance correction, and the reason we don't use them in our project is because our instructor dosen't allow it. In this project, we do not intend to provide the stm32 code and the remote control APP for cell phones, these codes belong to other people's non-open source materials, please consult with the original author. (**Reference 1**)
 
-![alt text](图片1.jpg)
+![alt text](Object.jpg)
 
 
 # Final
